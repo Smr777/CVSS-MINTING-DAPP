@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8e845B41892f8C3189B9278750aC7CfE6430537c",
+  "SCAN_LINK": "https://etherscan.io/token/0x8e845B41892f8C3189B9278750aC7CfE6430537",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
+  },
+  "NFT_NAME": "CryptoVerse Space Ship",
+  "SYMBOL": "CVSS",
+  "MAX_SUPPLY": 777,
+  "WEI_COST": 77000000000000000,
+  "DISPLAY_COST": 0.077,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cryptoverse-space-ship",
+  "SHOW_BACKGROUND": true
+}
